@@ -1,0 +1,304 @@
+Species	Subject	Sex	Session	Session_cont	Trial	Phase	Condition	con2	food_level	Success	Number_of_turns	Latency	Comment
+small-clawed otters	Rudi	m	1		1	1	free_spin	free_spin	low	0	0	120	
+small-clawed otters	Rudi	m	1		2	1	free_spin	free_spin	low	0	0	120	
+small-clawed otters	Rudi	m	1		3	1	free_spin	free_spin	low	0	0	120	
+small-clawed otters	Rudi	m	1		4	1	free_spin	free_spin	low	1	0	30	
+small-clawed otters	Blacky	m	1		1	1	free_spin	free_spin	low	1	1	18	
+small-clawed otters	Blacky	m	1		2	1	free_spin	free_spin	low	1	1	15	
+small-clawed otters	Blacky	m	1		3	1	free_spin	free_spin	low	1	1	7	
+small-clawed otters	Blacky	m	1		4	1	free_spin	free_spin	low	1	1	6	
+small-clawed otters	James	m	1		1	1	free_spin	free_spin	low	1	1	17	
+small-clawed otters	James	m	1		2	1	free_spin	free_spin	low	1	1	8	
+small-clawed otters	James	m	1		3	1	free_spin	free_spin	low	1	1	9	
+small-clawed otters	James	m	1		4	1	free_spin	free_spin	low	1	1	6	
+small-clawed otters	Twoface	m	1		1	1	free_spin	free_spin	low	1	1	20	
+small-clawed otters	Twoface	m	1		2	1	free_spin	free_spin	low	1	1	24	
+small-clawed otters	Twoface	m	1		3	1	free_spin	free_spin	low	1	1	16	
+small-clawed otters	Twoface	m	1		4	1	free_spin	free_spin	low	1	1	18	
+small-clawed otters	Rudi	m	2		5	1	free_spin	free_spin	low	1	1	33	
+small-clawed otters	Rudi	m	2		6	1	free_spin	free_spin	low	1	1	38	
+small-clawed otters	Rudi	m	2		7	1	free_spin	free_spin	low	1	1	12	
+small-clawed otters	Rudi	m	2		8	1	free_spin	free_spin	low	1	1	17	
+small-clawed otters	Blacky	m	2		5	1	free_spin	free_spin	low	1	2	13	
+small-clawed otters	Blacky	m	2		6	1	free_spin	free_spin	low	1	1	5	
+small-clawed otters	Blacky	m	2		7	1	free_spin	free_spin	low	1	1	5	
+small-clawed otters	Blacky	m	2		8	1	free_spin	free_spin	low	1	1	7	
+small-clawed otters	Twoface	m	2		5	1	free_spin	free_spin	low	1	1	14	
+small-clawed otters	Twoface	m	2		6	1	free_spin	free_spin	low	1	1	9	
+small-clawed otters	Twoface	m	2		7	1	free_spin	free_spin	low	1	1	6	
+small-clawed otters	Twoface	m	2		8	1	free_spin	free_spin	low	1	1	8	
+small-clawed otters	James	m	2		5	1	free_spin	free_spin	low	1	1	7	
+small-clawed otters	James	m	2		6	1	free_spin	free_spin	low	1	2	40	
+small-clawed otters	James	m	2		7	1	free_spin	free_spin	low	1	1	5	
+small-clawed otters	James	m	2		8	1	free_spin	free_spin	low	1	1	7	
+small-clawed otters	Blacky	m	3		9	1	free_spin	free_spin	low	1	1	10	
+small-clawed otters	Blacky	m	3		10	1	free_spin	free_spin	low	1	1	5	
+small-clawed otters	Blacky	m	3		11	1	free_spin	free_spin	low	1	1	9	
+small-clawed otters	Blacky	m	3		12	1	free_spin	free_spin	low	1	1	7	
+small-clawed otters	Rudi	m	3		9	1	free_spin	free_spin	low	1	1	29	
+small-clawed otters	Rudi	m	3		10	1	free_spin	free_spin	low	1	1	10	
+small-clawed otters	Rudi	m	3		11	1	free_spin	free_spin	low	1	1	29	
+small-clawed otters	Rudi	m	3		12	1	free_spin	free_spin	low	1	1	10	
+small-clawed otters	Twoface	m	3		9	1	free_spin	free_spin	low	1	1	10	
+small-clawed otters	Twoface	m	3		10	1	free_spin	free_spin	low	1	1	7	
+small-clawed otters	Twoface	m	3		11	1	free_spin	free_spin	low	1	1	5	
+small-clawed otters	Twoface	m	3		12	1	free_spin	free_spin	low	1	1	6	
+small-clawed otters	James	m	3		9	1	free_spin	free_spin	low	1	1	14	
+small-clawed otters	James	m	3		10	1	free_spin	free_spin	low	1	1	13	
+small-clawed otters	James	m	3		11	1	free_spin	free_spin	low	1	1	10	
+small-clawed otters	James	m	3		12	1	free_spin	free_spin	low	1	1	8	
+small-clawed otters	Twoface	m	1		1	2	free_spin	free_spin	high	1	2	95	
+small-clawed otters	Twoface	m	1		2	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	Twoface	m	1		3	2	free_spin	free_spin	high	1	1	29	
+small-clawed otters	Twoface	m	1		4	2	free_spin	free_spin	high	1	2	87	
+small-clawed otters	James	m	1		1	2	free_spin	free_spin	high	0	20	120	
+small-clawed otters	James	m	1		2	2	free_spin	free_spin	high	0	5	120	
+small-clawed otters	James	m	1		3	2	free_spin	free_spin	high	1	2	30	
+small-clawed otters	James	m	1		4	2	free_spin	free_spin	high	1	1	23	
+small-clawed otters	Blacky	m	1		1	2	free_spin	free_spin	high	1	4	76	
+small-clawed otters	Blacky	m	1		2	2	free_spin	free_spin	high	1	1	47	
+small-clawed otters	Blacky	m	1		3	2	free_spin	free_spin	high	1	4	56	
+small-clawed otters	Blacky	m	1		4	2	free_spin	free_spin	high	1	1	20	
+small-clawed otters	Rudi	m	1		1	2	free_spin	free_spin	high	1	2	26	
+small-clawed otters	Rudi	m	1		2	2	free_spin	free_spin	high	1	2	50	
+small-clawed otters	Rudi	m	1		3	2	free_spin	free_spin	high	1	1	29	
+small-clawed otters	Rudi	m	1		4	2	free_spin	free_spin	high	1	10	68	
+small-clawed otters	Blacky	m	2		5	2	free_spin	free_spin	high	1	2	16	Trial 1 was repeated because the food fell down from the arm
+small-clawed otters	Blacky	m	2		6	2	free_spin	free_spin	high	1	1	13	
+small-clawed otters	Blacky	m	2		7	2	free_spin	free_spin	high	1	1	11	
+small-clawed otters	Blacky	m	2		8	2	free_spin	free_spin	high	1	3	15	
+small-clawed otters	James	m	2		5	2	free_spin	free_spin	high	1	2	39	
+small-clawed otters	James	m	2		6	2	free_spin	free_spin	high	1	1	10	
+small-clawed otters	James	m	2		7	2	free_spin	free_spin	high	1	1	9	
+small-clawed otters	James	m	2		8	2	free_spin	free_spin	high	1	3	52	
+small-clawed otters	Rudi	m	2		5	2	free_spin	free_spin	high	1	1	102	
+small-clawed otters	Rudi	m	2		6	2	free_spin	free_spin	high	1	1	47	
+small-clawed otters	Rudi	m	2		7	2	free_spin	free_spin	high	1	7	48	
+small-clawed otters	Rudi	m	2		8	2	free_spin	free_spin	high	1	1	64	
+small-clawed otters	Blacky	m	3		9	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	Blacky	m	3		10	2	free_spin	free_spin	high	1	1	6	
+small-clawed otters	Blacky	m	3		11	2	free_spin	free_spin	high	1	1	6	
+small-clawed otters	Blacky	m	3		12	2	free_spin	free_spin	high	1	1	12	
+small-clawed otters	James	m	3		9	2	free_spin	free_spin	high	1	1	23	
+small-clawed otters	James	m	3		10	2	free_spin	free_spin	high	1	1	10	
+small-clawed otters	James	m	3		11	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	James	m	3		12	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	Twoface	m	2		5	2	free_spin	free_spin	high	1	1	15	
+small-clawed otters	Twoface	m	2		6	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	Twoface	m	2		7	2	free_spin	free_spin	high	1	1	14	
+small-clawed otters	Twoface	m	2		8	2	free_spin	free_spin	high	1	2	13	
+small-clawed otters	Twoface	m	3		9	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	Twoface	m	3		10	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	Twoface	m	3		11	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	Twoface	m	3		12	2	free_spin	free_spin	high	1	1	11	
+small-clawed otters	Rudi	m	3		9	2	free_spin	free_spin	high	1	1	25	
+small-clawed otters	Rudi	m	3		10	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	Rudi	m	3		11	2	free_spin	free_spin	high	1	1	8	
+small-clawed otters	Rudi	m	3		12	2	free_spin	free_spin	high	1	1	39	
+small-clawed otters	Blacky	m	1		1	3	response_window	response_window	high	1	1	10	
+small-clawed otters	Blacky	m	1		2	3	response_window	response_window	high	1	6	41	grabbed the food from underneath
+small-clawed otters	Blacky	m	1		3	3	response_window	response_window	high	1	1	20	
+small-clawed otters	Blacky	m	1		4	3	response_window	response_window	high	1	1	9	
+small-clawed otters	James	m	1		1	3	response_window	response_window	high	1	2	33	
+small-clawed otters	James	m	1		2	3	response_window	response_window	high	1	2	24	
+small-clawed otters	James	m	1		3	3	response_window	response_window	high	1	1	17	
+small-clawed otters	James	m	1		4	3	response_window	response_window	high	1	2	34	"ate the some remaining cat food on the floor first, first touched the wheel after 14 sec"
+small-clawed otters	Twoface	m	1		1	3	response_window	response_window	high	1	1	25	
+small-clawed otters	Twoface	m	1		2	3	response_window	response_window	high	1	2	18	
+small-clawed otters	Twoface	m	1		3	3	response_window	response_window	high	1	1	13	
+small-clawed otters	Twoface	m	1		4	3	response_window	response_window	high	1	2	14	repeated twice because the food fell off the wheel (the arm wasn’t secured properly)
+small-clawed otters	Rudi	m	1		1	3	response_window	response_window	high	1	1	39	grabbed food from top
+small-clawed otters	Rudi	m	1		2	3	response_window	response_window	high	1	1	27	grabbed food from top
+small-clawed otters	Rudi	m	1		3	3	response_window	response_window	high	1	1	24	grabbed food from top
+small-clawed otters	Rudi	m	1		4	3	response_window	response_window	high	1	1	18	grabbed food from top
+small-clawed otters	Blacky	m	2		5	3	response_window	response_window	high	1	1	12	grabbed the food from underneath
+small-clawed otters	Blacky	m	2		6	3	response_window	response_window	high	1	1	6	grabbed the food from underneath
+small-clawed otters	Blacky	m	2		7	3	response_window	response_window	high	1	2	17	grabbed the food from underneath
+small-clawed otters	Blacky	m	2		8	3	response_window	response_window	high	1	1	11	grabbed the food from underneath
+small-clawed otters	James	m	2		5	3	response_window	response_window	high	1	1	27	
+small-clawed otters	James	m	2		6	3	response_window	response_window	high	1	1	12	
+small-clawed otters	James	m	2		7	3	response_window	response_window	high	1	4	62	
+small-clawed otters	James	m	2		8	3	response_window	response_window	high	1	1	20	
+small-clawed otters	Rudi	m	2		5	3	response_window	response_window	high	1	3	27	grabbed food from top
+small-clawed otters	Rudi	m	2		6	3	response_window	response_window	high	1	3	40	grabbed food from top
+small-clawed otters	Rudi	m	2		7	3	response_window	response_window	high	1	12	47	grabbed food from top
+small-clawed otters	Rudi	m	2		8	3	response_window	response_window	high	1	1	7	grabbed food from top
+small-clawed otters	Twoface	m	2		5	3	response_window	response_window	high	1	1	7	
+small-clawed otters	Twoface	m	2		6	3	response_window	response_window	high	1	2	19	
+small-clawed otters	Twoface	m	2		7	3	response_window	response_window	high	1	4	48	
+small-clawed otters	Twoface	m	2		8	3	response_window	response_window	high	1	1	17	
+small-clawed otters	Blacky	m	1		1	4	response_window_large	response_window_large	high	1	1	19	
+small-clawed otters	Blacky	m	1		2	4	response_window_large	response_window_large	high	1	8	98	
+small-clawed otters	Blacky	m	1		3	4	response_window_large	response_window_large	high	1	2	14	
+small-clawed otters	Blacky	m	1		4	4	response_window_large	response_window_large	high	1	6	88	
+small-clawed otters	Rudi	m	1		1	4	response_window_large	response_window_large	high	1	2	20	
+small-clawed otters	Rudi	m	1		2	4	response_window_large	response_window_large	high	1	2	19	
+small-clawed otters	Rudi	m	1		3	4	response_window_large	response_window_large	high	1	1	38	
+small-clawed otters	Rudi	m	1		4	4	response_window_large	response_window_large	high	1	1	6	
+small-clawed otters	Blacky	m	2		5	4	response_window_large	response_window_large	high	1	1	18	
+small-clawed otters	Blacky	m	2		6	4	response_window_large	response_window_large	high	1	4	36	
+small-clawed otters	Blacky	m	2		7	4	response_window_large	response_window_large	high	1	1	18	
+small-clawed otters	Rudi	m	2		5	4	response_window_large	response_window_large	high	1	1	12	
+small-clawed otters	Rudi	m	2		6	4	response_window_large	response_window_large	high	1	3	42	
+small-clawed otters	Rudi	m	2		7	4	response_window_large	response_window_large	high	1	1	19	
+small-clawed otters	Rudi	m	2		8	4	response_window_large	response_window_large	high	1	3	42	
+small-clawed otters	Twoface	m	1		1	4	response_window_large	response_window_large	high	1	3	36	
+small-clawed otters	Twoface	m	1		2	4	response_window_large	response_window_large	high	1	1	12	
+small-clawed otters	Twoface	m	1		3	4	response_window_large	response_window_large	high	1	1	22	
+small-clawed otters	Twoface	m	1		4	4	response_window_large	response_window_large	high	1	1	12	
+small-clawed otters	James	m	1		1	4	response_window_large	response_window_large	high	1	1	35	
+small-clawed otters	James	m	1		2	4	response_window_large	response_window_large	high	1	3	53	
+small-clawed otters	James	m	1		3	4	response_window_large	response_window_large	high	1	1	19	
+small-clawed otters	James	m	1		4	4	response_window_large	response_window_large	high	1	1	17	
+small-clawed otters	James	m	2		5	4	response_window_large	response_window_large	high	1	1	8	
+small-clawed otters	James	m	2		6	4	response_window_large	response_window_large	high	1	2	25	
+small-clawed otters	James	m	2		7	4	response_window_large	response_window_large	high	1	7	44	
+small-clawed otters	James	m	2		8	4	response_window_large	response_window_large	high	1	1	18	
+small-clawed otters	Twoface	m	2		5	4	response_window_large	response_window_large	high	1	2	35	
+small-clawed otters	Twoface	m	2		6	4	response_window_large	response_window_large	high	1	1	8	
+small-clawed otters	Twoface	m	2		7	4	response_window_large	response_window_large	high	1	1	16	
+small-clawed otters	Twoface	m	2		8	4	response_window_large	response_window_large	high	1	9	55	
+small-clawed otters	Blacky	m	1	1	1	5	response_window_large	response_window_large	extra high	1	13	120	got the food at the last second
+small-clawed otters	Blacky	m	1	1	2	5	response_window_large	response_window_large	extra high	1	4	80	
+small-clawed otters	Blacky	m	1	1	3	5	response_window_large	response_window_large	extra high	1	4	88	
+small-clawed otters	Blacky	m	1	1	4	5	response_window_large	response_window_large	extra high	1	1	9	
+small-clawed otters	Rudi	m	1	1	1	5	response_window_large	response_window_large	extra high	1	1	14	
+small-clawed otters	Rudi	m	1	1	2	5	response_window_large	response_window_large	extra high	1	4	37	
+small-clawed otters	Rudi	m	1	1	3	5	response_window_large	response_window_large	extra high	1	3	23	
+small-clawed otters	Rudi	m	1	1	4	5	response_window_large	response_window_large	extra high	1	1	20	
+small-clawed otters	Twoface	m	1	1	1	5	response_window_large	response_window_large	extra high	1	1	21	
+small-clawed otters	Twoface	m	1	1	2	5	response_window_large	response_window_large	extra high	1	1	34	
+small-clawed otters	Twoface	m	1	1	3	5	response_window_large	response_window_large	extra high	0	7	120	
+small-clawed otters	Twoface	m	1	1	4	5	response_window_large	response_window_large	extra high	1	1	19	
+small-clawed otters	James	m	1	1	1	5	response_window_large	response_window_large	extra high	1	1	18	
+small-clawed otters	James	m	1	1	2	5	response_window_large	response_window_large	extra high	1	1	30	
+small-clawed otters	James	m	1	1	3	5	response_window_large	response_window_large	extra high	0	6	120	
+small-clawed otters	James	m	1	1	4	5	response_window_large	response_window_large	extra high	1	3	65	
+small-clawed otters	Blacky	m	2	2	5	5	response_window_large	response_window_large	extra high	1	8	132	did not leave the room after 2min and obtained the food
+small-clawed otters	Blacky	m	2	2	6	5	response_window_large	response_window_large	extra high	0	22	120	
+small-clawed otters	Blacky	m	2	2	7	5	response_window_large	response_window_large	extra high	1	5	17	
+small-clawed otters	Blacky	m	2	2	8	5	response_window_large	response_window_large	extra high	1	1	23	
+small-clawed otters	Twoface	m	2	2	5	5	response_window_large	response_window_large	extra high	1	1	46	
+small-clawed otters	Twoface	m	2	2	6	5	response_window_large	response_window_large	extra high	0	3	120	
+small-clawed otters	Twoface	m	2	2	7	5	response_window_large	response_window_large	extra high	0	8	120	
+small-clawed otters	Twoface	m	2	2	8	5	response_window_large	response_window_large	extra high	0	8	120	
+small-clawed otters	James	m	2	2	5	5	response_window_large	response_window_large	extra high	0	6	120	
+small-clawed otters	James	m	2	2	6	5	response_window_large	response_window_large	extra high	0	5	120	
+small-clawed otters	James	m	2	2	7	5	response_window_large	response_window_large	extra high	0	3	120	
+small-clawed otters	James	m	2	2	8	5	response_window_large	response_window_large	extra high	0	2	120	
+small-clawed otters	Twoface	m	3	3	9	5	response_window_large	response_window_large	extra high	0	8	120	
+small-clawed otters	Twoface	m	3	3	10	5	response_window_large	response_window_large	extra high	1	1	33	
+small-clawed otters	Twoface	m	3	3	11	5	response_window_large	response_window_large	extra high	1	4	120	got the food at the last second
+small-clawed otters	Twoface	m	3	3	12	5	response_window_large	response_window_large	extra high	1	1	60	
+small-clawed otters	James	m	3	3	9	5	response_window_large	response_window_large	extra high	0	5	120	
+small-clawed otters	James	m	3	3	10	5	response_window_large	response_window_large	extra high	1	2	15	
+small-clawed otters	James	m	3	3	11	5	response_window_large	response_window_large	extra high	1	2	34	
+small-clawed otters	James	m	3	3	12	5	response_window_large	response_window_large	extra high	1	1	23	
+small-clawed otters	Rudi	m	2	2	5	5	response_window_large	response_window_large	extra high	1	9	98	
+small-clawed otters	Rudi	m	2	2	6	5	response_window_large	response_window_large	extra high	1	5	33	
+small-clawed otters	Rudi	m	2	2	7	5	response_window_large	response_window_large	extra high	1	2	24	
+small-clawed otters	Rudi	m	2	2	8	5	response_window_large	response_window_large	extra high	1	1	27	
+small-clawed otters	Twoface	m	4	4	13	5	response_window_large	response_window_large	extra high	1	1	41	
+small-clawed otters	Twoface	m	4	4	14	5	response_window_large	response_window_large	extra high	1	1	76	
+small-clawed otters	Twoface	m	4	4	15	5	response_window_large	response_window_large	extra high	1	1	39	
+small-clawed otters	Twoface	m	4	4	16	5	response_window_large	response_window_large	extra high	1	1	25	
+small-clawed otters	James	m	4	4	13	5	response_window_large	response_window_large	extra high	1	1	39	
+small-clawed otters	James	m	4	4	14	5	response_window_large	response_window_large	extra high	1	3	110	
+small-clawed otters	James	m	4	4	15	5	response_window_large	response_window_large	extra high	1	1	23	
+small-clawed otters	James	m	4	4	16	5	response_window_large	response_window_large	extra high	1	1	33	
+small-clawed otters	Rudi	m	3	3	9	5	response_window_large	response_window_large	extra high	1	11	60	
+small-clawed otters	Rudi	m	3	3	10	5	response_window_large	response_window_large	extra high	1	2	8	
+small-clawed otters	Rudi	m	3	3	11	5	response_window_large	response_window_large	extra high	1	1	12	
+small-clawed otters	Rudi	m	3	3	12	5	response_window_large	response_window_large	extra high	1	1	17	
+small-clawed otters	Blacky	m	3	3	9	5	response_window_large	response_window_large	extra high	1	5	95	
+small-clawed otters	Blacky	m	3	3	10	5	response_window_large	response_window_large	extra high	0	8	120	
+small-clawed otters	Blacky	m	3	3	11	5	response_window_large	response_window_large	extra high	1	7	58	
+small-clawed otters	Blacky	m	3	3	12	5	response_window_large	response_window_large	extra high	0	9	120	
+small-clawed otters	Rudi	m	4	4	13	5	response_window_large	response_window_large	extra high	1	1	12	
+small-clawed otters	Rudi	m	4	4	14	5	response_window_large	response_window_large	extra high	1	1	10	
+small-clawed otters	Rudi	m	4	4	15	5	response_window_large	response_window_large	extra high	1	1	25	
+small-clawed otters	Rudi	m	4	4	16	5	response_window_large	response_window_large	extra high	1	2	29	
+small-clawed otters	Blacky	m	4	4	13	5	response_window_large	response_window_large	extra high	1	1	13	
+small-clawed otters	Blacky	m	4	4	14	5	response_window_large	response_window_large	extra high	1	1	23	
+small-clawed otters	Blacky	m	4	4	15	5	response_window_large	response_window_large	extra high	1	1	58	
+small-clawed otters	Blacky	m	4	4	16	5	response_window_large	response_window_large	extra high	1	3	39	
+small-clawed otters	James	m	1	5	1	6	Occluded	Occluded	extra high	0	8	120	
+small-clawed otters	James	m	1	5	2	6	Occluded	Occluded	extra high	0	9	120	
+small-clawed otters	James	m	1	5	3	6	Occluded	Occluded	extra high	1	6	98	
+small-clawed otters	James	m	1	5	4	6	Occluded	Occluded	extra high	1	2	105	
+small-clawed otters	Rudi	m	1	5	1	6	Occluded	Occluded	extra high	0	15	120	
+small-clawed otters	Rudi	m	1	5	2	6	Occluded	Occluded	extra high	0	26	120	
+small-clawed otters	Rudi	m	1	5	3	6	Occluded	Occluded	extra high	0	4	120	
+small-clawed otters	Rudi	m	1	5	4	6	Occluded	Occluded	extra high	0	17	120	
+small-clawed otters	Blacky	m	1	5	1	6	Occluded	Occluded	extra high	0	21	120	
+small-clawed otters	Blacky	m	1	5	2	6	Occluded	Occluded	extra high	1	1	10	
+small-clawed otters	Blacky	m	1	5	3	6	Occluded	Occluded	extra high	0	16	120	
+small-clawed otters	Blacky	m	1	5	4	6	Occluded	Occluded	extra high	0	20	120	
+small-clawed otters	Twoface	m	1	5	1	6	Occluded	Occluded	extra high	0	10	120	
+small-clawed otters	Twoface	m	1	5	2	6	Occluded	Occluded	extra high	0	13	120	
+small-clawed otters	Twoface	m	1	5	3	6	Occluded	Occluded	extra high	0	5	120	
+small-clawed otters	Twoface	m	1	5	4	6	Occluded	Occluded	extra high	0	9	120	
+small-clawed otters	James	m	2	6	5	6	Occluded	Occluded	extra high	1	2	44	
+small-clawed otters	James	m	2	6	6	6	Occluded	Occluded	extra high	1	1	34	
+small-clawed otters	James	m	2	6	7	6	Occluded	Occluded	extra high	0	3	120	
+small-clawed otters	James	m	2	6	8	6	Occluded	Occluded	extra high	0	8	120	
+small-clawed otters	Blacky	m	2	6	5	6	Occluded	Occluded	extra high	1	8	108	
+small-clawed otters	Blacky	m	2	6	6	6	Occluded	Occluded	extra high	1	1	10	
+small-clawed otters	Blacky	m	2	6	7	6	Occluded	Occluded	extra high	1	1	26	
+small-clawed otters	Blacky	m	2	6	8	6	Occluded	Occluded	extra high	0	7	120	
+small-clawed otters	Twoface	m	2	6	5	6	Occluded	Occluded	extra high	0	11	120	
+small-clawed otters	Twoface	m	2	6	6	6	Occluded	Occluded	extra high	0	10	120	
+small-clawed otters	Twoface	m	2	6	7	6	Occluded	Occluded	extra high	0	8	120	
+small-clawed otters	Twoface	m	2	6	8	6	Occluded	Occluded	extra high	0	1	120	
+small-clawed otters	Rudi	m	2	6	5	6	Occluded	Occluded	extra high	0	16	120	
+small-clawed otters	Rudi	m	2	6	6	6	Occluded	Occluded	extra high	0	9	120	
+small-clawed otters	Rudi	m	2	6	7	6	Occluded	Occluded	extra high	0	3	120	
+small-clawed otters	Rudi	m	2	6	8	6	Occluded	Occluded	extra high	0	3	120	
+small-clawed otters	James	m	3	7	9	6	Occluded	Occluded	extra high	1	1	17	
+small-clawed otters	James	m	3	7	10	6	Occluded	Occluded	extra high	1	1	19	
+small-clawed otters	James	m	3	7	11	6	Occluded	Occluded	extra high	1	1	20	
+small-clawed otters	James	m	3	7	12	6	Occluded	Occluded	extra high	1	3	89	
+small-clawed otters	Blacky	m	3	7	9	6	Occluded	Occluded	extra high	1	3	18	
+small-clawed otters	Blacky	m	3	7	10	6	Occluded	Occluded	extra high	1	1	22	
+small-clawed otters	Blacky	m	3	7	11	6	Occluded	Occluded	extra high	1	1	38	
+small-clawed otters	Blacky	m	3	7	12	6	Occluded	Occluded	extra high	0	0	120	
+small-clawed otters	Twoface	m	3	7	9	6	Occluded	Occluded	extra high	0	1	120	
+small-clawed otters	Twoface	m	3	7	10	6	Occluded	Occluded	extra high	0	5	120	
+small-clawed otters	Twoface	m	3	7	11	6	Occluded	Occluded	extra high	0	8	120	
+small-clawed otters	Twoface	m	3	7	12	6	Occluded	Occluded	extra high	0	3	120	
+small-clawed otters	Rudi	m	3	7	9	6	Occluded	Occluded	extra high	0	13	120	
+small-clawed otters	Rudi	m	3	7	10	6	Occluded	Occluded	extra high	0	11	120	
+small-clawed otters	Rudi	m	3	7	11	6	Occluded	Occluded	extra high	0	17	120	
+small-clawed otters	Rudi	m	3	7	12	6	Occluded	Occluded	extra high	0	14	120	
+small-clawed otters	James	m	4	8	13	6	Occluded	Occluded	extra high	1	8	106	
+small-clawed otters	James	m	4	8	14	6	Occluded	Occluded	extra high	0	5	120	
+small-clawed otters	James	m	4	8	15	6	Occluded	Occluded	extra high	0	6	120	
+small-clawed otters	James	m	4	8	16	6	Occluded	Occluded	extra high	0	3	120	
+small-clawed otters	Blacky	m	4	8	13	6	Occluded	Occluded	extra high	0	2	120	
+small-clawed otters	Blacky	m	4	8	14	6	Occluded	Occluded	extra high	0	9	120	
+small-clawed otters	Blacky	m	4	8	15	6	Occluded	Occluded	extra high	0	5	120	
+small-clawed otters	Blacky	m	4	8	16	6	Occluded	Occluded	extra high	0	4	120	
+small-clawed otters	Twoface	m	4	8	13	6	Occluded	Occluded	extra high	0	1	120	
+small-clawed otters	Twoface	m	4	8	14	6	Occluded	Occluded	extra high	0	5	120	
+small-clawed otters	Twoface	m	4	8	15	6	Occluded	Occluded	extra high	0	2	120	
+small-clawed otters	Twoface	m	4	8	16	6	Occluded	Occluded	extra high	0	0	120	
+small-clawed otters	Rudi	m	4	8	13	6	Occluded	Occluded	extra high	0	21	120	
+small-clawed otters	Rudi	m	4	8	14	6	Occluded	Occluded	extra high	0	18	120	
+small-clawed otters	Rudi	m	4	8	15	6	Occluded	Occluded	extra high	0	21	120	
+small-clawed otters	Rudi	m	4	8	16	6	Occluded	Occluded	extra high	0	8	120	
+small-clawed otters	Rudi	m	1	9	1	7	repeat_response_window_large	response_window_large	extra high	0	0	120	
+small-clawed otters	Rudi	m	1	9	2	7	repeat_response_window_large	response_window_large	extra high	0	0	120	
+small-clawed otters	Rudi	m	1	9	3	7	repeat_response_window_large	response_window_large	extra high	0	0	120	
+small-clawed otters	Rudi	m	1	9	4	7	repeat_response_window_large	response_window_large	extra high	0	0	120	
+small-clawed otters	Blacky	m	1	9	1	7	repeat_response_window_large	response_window_large	extra high	0	1	120	
+small-clawed otters	Blacky	m	1	9	2	7	repeat_response_window_large	response_window_large	extra high	0	0	120	
+small-clawed otters	Blacky	m	1	9	3	7	repeat_response_window_large	response_window_large	extra high	1	3	34	
+small-clawed otters	Blacky	m	1	9	4	7	repeat_response_window_large	response_window_large	extra high	1	1	20	
+small-clawed otters	Twoface	m	1	9	1	7	repeat_response_window_large	response_window_large	extra high	0	0	120	
+small-clawed otters	Twoface	m	1	9	2	7	repeat_response_window_large	response_window_large	extra high	0	1	120	
+small-clawed otters	Twoface	m	1	9	3	7	repeat_response_window_large	response_window_large	extra high	1	1	95	
+small-clawed otters	Twoface	m	1	9	4	7	repeat_response_window_large	response_window_large	extra high	1	2	105	
+small-clawed otters	James	m	1	9	1	7	repeat_response_window_large	response_window_large	extra high	1	2	51	
+small-clawed otters	James	m	1	9	2	7	repeat_response_window_large	response_window_large	extra high	1	1	21	
+small-clawed otters	James	m	1	9	3	7	repeat_response_window_large	response_window_large	extra high	1	1	11	
+small-clawed otters	James	m	1	9	4	7	repeat_response_window_large	response_window_large	extra high	1	2	77	

@@ -1,0 +1,193 @@
+Species	Subject	Sex	Session	Trial	Trial_within_step	Trial2	half	first_trials	first_trial_per_method	trials_step34	Step	flexible	Blocked_method	Success	Method	Latency	other_methods_used	preexperience	transitions	1_method	1_meth_attempts	2_method	2_meth_attempts	3_method	3_meth_attempts	4_method	4_meth_attempts	5_method	5_meth_attempts	6_method	6_meth_attempts	7_method	7_meth_attempts	8_method	8_meth_attempts	9_method	9_meth_attempts	10_method	10_meth_attempts	11_method	11_meth_attempts	12_method	12_meth_attempts	13_method	13_meth_attempts	14_method	14_meth_attempts	15_method	15_meth_attempts	16_method	16_meth_attempts	17_method	17_meth_attempts	18_method	18_meth_attempts	19_method	19_meth_attempts	20_method	20_meth_attempts	21_method	21_meth_attempts	22_method	22_meth_attempts
+small-clawed otters	Blacky	m	1	1	1	1	1	1	1		1	0	-	1	swing	39	-		2	s	1	d	1																																								
+small-clawed otters	Blacky	m	1	2	2	2	1	2	2		1	0	-	1	swing	10	-		2	s	1	d	1																																								
+small-clawed otters	Blacky	m	1	3	3	3	1	3	1		1	0	-	1	stick	29	swing		1	s	2																																										
+small-clawed otters	Blacky	m	2	4	4	4	1	4	1		1	0	-	1	lid	26			3	s	1	d	1	l	1																																						
+small-clawed otters	Blacky	m	2	5	5	5	1	5	3		1	0	-	1	swing	10			2	s	1	d	1																																								
+small-clawed otters	Blacky	m	2	6	6	6	1	6	4		1	0	-	1	swing	12			2	s	1	d	1																																								
+small-clawed otters	Blacky	m	3	7	7			7			1	0	-	1	swing	12			1	d	1																																										
+small-clawed otters	Blacky	m	3	8	8			8	2		1	0	-	1	lid	12			2	s	1	l	1																																								
+small-clawed otters	Blacky	m	3	9	9			9			1	0	-	1	swing	13			2	s	1	d	1																																								
+small-clawed otters	Blacky	m	4	10	10			10			1	0	-	1	swing	13			2	s	1	d	1																																								
+small-clawed otters	Blacky	m	4	11	11			11	3		1	0	-	1	lid	6	swing		2	s	1	l	1																																								
+small-clawed otters	Blacky	m	4	12	12			12	2		1	0	-	1	stick	15			1	s	1																																										
+small-clawed otters	Blacky	m	5	13	13				3		1	0	-	1	stick	7			1	s	1																																										
+small-clawed otters	Blacky	m	5	14	14				4		1	0	-	1	stick	7			1	s	1																																										
+small-clawed otters	Blacky	m	5	15	15				4		1	0	-	1	lid	11			2	s	1	l	1																																								
+small-clawed otters	Blacky	m	6	16	16						1	0	-	1	lid	7			2	s	1	l	1																																								
+small-clawed otters	Blacky	m	6	17	17						1	0	-	1	swing	9			2	s	1	d	1																																								
+small-clawed otters	Blacky	m	6	18	18						1	0	-	1	lid	5			2	s	1	l	1																																								
+small-clawed otters	Blacky	m	7	19	19						1	0	-	1	swing	12			1	d	1																																										
+small-clawed otters	Blacky	m	7	20	20						1	0	-	1	lid	9	swing		2	s	1	l	1																																								
+small-clawed otters	Blacky	m	7	21	21						1	0	-	1	lid	6			2	s	1	l	1																																								
+small-clawed otters	Blacky	m	8	22	22						1	0	-	1	lid	4	swing		2	s	1	l	1																																								
+small-clawed otters	Blacky	m	8	23	23						1	0	-	1	swing	11			2	s	1	d	1																																								
+small-clawed otters	Blacky	m	8	24	24	7	2				1	0	-	1	lid	5	swing		2	s	1	l	1																																								
+small-clawed otters	Blacky	m	9	25	25	8	2				1	0	-	1	lid	4			1	l	1																																										
+small-clawed otters	Blacky	m	9	26	26	9	2				1	0	-	1	lid	6			2	s	1	l	1																																								
+small-clawed otters	Blacky	m	9	27	27	10	2				1	0	-	1	lid	4			1	l	1																																										
+small-clawed otters	Blacky	m	10	28	28	11	2				1	0	-	1	lid	5			1	l	1																																										
+small-clawed otters	Blacky	m	10	29	29	12	2				1	0	-	1	lid	3			1	l	1																																										
+small-clawed otters	Blacky	m	11	30	1	1	1				2	0	lid	1	swing	10			2	l	1	d	1																																								
+small-clawed otters	Blacky	m	11	31	2	2	1				2	0	lid	1	swing	6			2	l	1	d	1																																								
+small-clawed otters	Blacky	m	11	32	3	3	1				2	0	lid	1	swing	10			2	l	1	d	1																																								
+small-clawed otters	Blacky	m	12	33	4	4	1				2	0	lid	1	swing	8			1	d	1																																										
+small-clawed otters	Blacky	m	12	34	5	5	1				2	0	lid	1	swing	7			1	d	1																																										
+small-clawed otters	Blacky	m	12	35	6	6	1				2	0	lid	1	swing	5			1	d	1																																										
+small-clawed otters	Blacky	m	13	36	7	7	2				2	0	lid	1	swing	7			1	d	1																																										
+small-clawed otters	Blacky	m	13	37	8	8	2				2	0	lid	1	swing	7			1	d	1																																										
+small-clawed otters	Blacky	m	13	38	9	9	2				2	0	lid	1	swing	5			1	d	1																																										
+small-clawed otters	Blacky	m	14	39	10	10	2				2	0	lid	1	swing	5			1	d	1																																										
+small-clawed otters	Blacky	m	14	40	11	11	2				2	0	lid	1	swing	6			1	d	1																																										
+small-clawed otters	Blacky	m	14	41	12	12	2				2	0	lid	1	swing	7			1	d	1																																										
+small-clawed otters	Blacky	m	15	42	1	1	1			1	3	0	lid+swing	1	stick	49			6	d	1	l	1	d	1	l	1	d	1	s	1																																
+small-clawed otters	Blacky	m	15	43	2	2	1			2	3	0	lid+swing	1	stick	14			3	l	1	d	1	s	2																																						
+small-clawed otters	Blacky	m	16	44	3	3	1			3	3	0	lid+swing	1	stick	60			4	d	1	s	1	d	1	s	1																																				
+small-clawed otters	Blacky	m	16	45	4	4	1			4	3	0	lid+swing	1	stick	99			8	d	1	l	1	d	1	s	1	d	1	s	3	d	1	s	1																												
+small-clawed otters	Blacky	m	16	46	5	5	1				3	0	lid+swing	1	stick	65			9	s	1	d	1	s	1	d	1	l	1	s	1	d	1	l	1	s	1																										
+small-clawed otters	Blacky	m	17	47	6	6	1				3	0	lid+swing	1	stick	56			6	s	1	d	1	s	1	l	1	d	1	s	1																																
+small-clawed otters	Blacky	m	17	48	7	7	2				3	0	lid+swing	1	stick	28			4	s	1	l	1	d	1	s	1																																				
+small-clawed otters	Blacky	m	17	49	8	8	2				3	0	lid+swing	1	stick	57			6	l	2	d	1	s	1	d	1	l	1	s	1																																
+small-clawed otters	Blacky	m	18	50	9	9	2				3	0	lid+swing	1	stick	27			2	d	1	s	1																																								
+small-clawed otters	Blacky	m	18	51	10	10	2				3	0	lid+swing	1	stick	15			3	s	1	d	1	s	1																																						
+small-clawed otters	Blacky	m	18	52	11	11	2				3	0	lid+swing	1	stick	18			1	s	1																																										
+small-clawed otters	Blacky	m	18	53	12	12	2				3	0	lid+swing	1	stick	19			3	s	1	d	1	s	1																																						
+small-clawed otters	Blacky	m	19	54	1	1	1	1	1		4	1	stick+swing	1	lid	30		1	3	s	1	d	2	l	1																																						
+small-clawed otters	Blacky	m	19	55	2	2	1	2	1	1	4	1	lid+swing	1	stick	15		3	1	s	1																																										
+small-clawed otters	Blacky	m	19	56	3	3	1	3	1		4	1	lid+stick	1	swing	29		2	2	s	1	d	1																																								
+small-clawed otters	Blacky	m	20	57	4	4	1	4	2	2	4	1	lid+swing	1	stick	23		3	5	s	1	l	1	d	1	l	1	s	1																																		
+small-clawed otters	Blacky	m	20	58	5	5	1	5	2		4	1	lid+stick	1	swing	40		2	2	s	1	d	1																																								
+small-clawed otters	Blacky	m	20	59	6	6	1	6	2		4	1	stick+swing	1	lid	19		1	4	s	1	d	1	s	1	l	1																																				
+small-clawed otters	Blacky	m	21	60	7	7	2	7	3		4	1	lid+stick	1	swing	8		2	1	d	1																																										
+small-clawed otters	Blacky	m	21	61	8	8	2	8	3	3	4	1	lid+swing	1	stick	11		3	1	s	1																																										
+small-clawed otters	Blacky	m	21	62	9	9	2	9	3		4	1	stick+swing	1	lid	16		1	3	s	1	d	1	l	1																																						
+small-clawed otters	Blacky	m	22	63	10	10	2	10	4		4	1	stick+swing	1	lid	19		1	5	s	1	d	1	l	1	s	1	l	1																																		
+small-clawed otters	Blacky	m	22	64	11	11	2	11	4	4	4	1	lid+swing	1	stick	15		3	1	s	1																																										
+small-clawed otters	Blacky	m	22	65	12	12	2	12	4		4	1	lid+stick	1	swing	11		2	2	s	1	d	1																																								
+small-clawed otters	James	m	1	1	1	1	1	1	1		1	0	-	1	swing	12	-		2	s	1	d	1																																								
+small-clawed otters	James	m	1	2	2	2	1	2	2		1	0	-	1	swing	13	-		2	s	1	d	1																																								
+small-clawed otters	James	m	1	3	3	3	1	3	3		1	0	-	1	swing	14	-		2	s	1	d	1																																								
+small-clawed otters	James	m	2	4	4	4	1	4	4		1	0	-	1	swing	8	-		2	s	1	d	1																																								
+small-clawed otters	James	m	2	5	5	5	1	5			1	0	-	1	swing	9	-		2	s	1	d	1																																								
+small-clawed otters	James	m	2	6	6	6	1	6			1	0	-	1	swing	7	-		2	s	1	d	1																																								
+small-clawed otters	James	m	3	7	7	7	2	7			1	0	-	1	swing	5			2	s	1	d	1																																								
+small-clawed otters	James	m	3	8	8	8	2	8			1	0	-	1	swing	5			1	d	1																																										
+small-clawed otters	James	m	3	9	9	9	2	9			1	0	-	1	swing	5			1	d	1																																										
+small-clawed otters	James	m	4	10	10	10	2	10			1	0	-	1	swing	6			2	s	1	d	1																																								
+small-clawed otters	James	m	4	11	11	11	2	11			1	0	-	1	swing	5			1	d	1																																										
+small-clawed otters	James	m	4	12	12	12	2	12			1	0	-	1	swing	5			1	d	1																																										
+small-clawed otters	James	m	5	13	1	1	1		1		2	0	swing	1	lid	28			9	s	1	d	1	l	1	s	1	d	1	s	1	d	1	s	1	l	1																										
+small-clawed otters	James	m	5	14	2	2	1		1		2	0	swing	1	stick	51			11	s	1	d	1	s	1	d	1	s	1	d	1	s	1	d	1	s	1	d	1	s	1																						
+small-clawed otters	James	m	5	15	3	3	1		2		2	0	swing	1	lid	7			2	s	1	l	1																																								
+small-clawed otters	James	m	6	16	4	4	1		2		2	0	swing	1	stick	26			3	s	1	d	1	s	1																																						
+small-clawed otters	James	m	6	17	5	5	1		3		2	0	swing	1	stick	14			3	s	1	d	1	s	1																																						
+small-clawed otters	James	m	6	18	6	6	1		4		2	0	swing	1	stick	26			5	s	1	d	1	s	1	d	1	s	1																																		
+small-clawed otters	James	m	7	19	7	7	2				2	0	swing	1	stick	39			5	s	1	d	1	s	1	d	1	s	1																																		
+small-clawed otters	James	m	7	20	8	8	2				2	0	swing	1	stick	10			1	s	1																																										
+small-clawed otters	James	m	7	21	9	9	2				2	0	swing	1	stick	7			1	s	1																																										
+small-clawed otters	James	m	8	22	10	10	2				2	0	swing	1	stick	2			1	s	1																																										
+small-clawed otters	James	m	8	23	11	11	2				2	0	swing	1	stick	4			1	s	1																																										
+small-clawed otters	James	m	8	24	12	12	2				2	0	swing	1	stick	9			1	s	1																																										
+small-clawed otters	James	m	9	25	1	1	1		3	1	3	0	stick+swing	1	lid	49			3	s	2	d	1	l	1																																						
+small-clawed otters	James	m	9	26	2	2	1		4	2	3	0	stick+swing	1	lid	7			3	s	1	d	1	l	1																																						
+small-clawed otters	James	m	9	27	3	3	1			3	3	0	stick+swing	1	lid	7			3	s	1	d	1	l	1																																						
+small-clawed otters	James	m	10	28	4	4	1			4	3	0	stick+swing	1	lid	31			5	s	1	d	1	s	1	d	1	l	1																																		
+small-clawed otters	James	m	10	29	5	5	1				3	0	stick+swing	1	lid	4			1	l	1																																										
+small-clawed otters	James	m	10	30	6	6	1				3	0	stick+swing	1	lid	5			1	l	1																																										
+small-clawed otters	James	m	11	31	7	7	2				3	0	stick+swing	1	lid	7			3	s	1	d	1	l	1																																						
+small-clawed otters	James	m	11	32	8	8	2				3	0	stick+swing	1	lid	4			2	d	1	l	1																																								
+small-clawed otters	James	m	11	33	9	9	2				3	0	stick+swing	1	lid	4			2	d	1	l	1																																								
+small-clawed otters	James	m	12	34	10	10	2				3	0	stick+swing	1	lid	5			1	l	1																																										
+small-clawed otters	James	m	12	35	11	11	2				3	0	stick+swing	1	lid	5			1	l	1																																										
+small-clawed otters	James	m	12	36	12	12	2				3	0	stick+swing	1	lid	4			1	l	1																																										
+small-clawed otters	James	m	13	37	1	1	1	1	1		4	1	lid+stick	1	swing	7		1	2	l	1	d	1																																								
+small-clawed otters	James	m	13	38	2	2	1	2	1	1	4	1	swing+stick	1	lid	3		3	1	l	1																																										
+small-clawed otters	James	m	13	39	3	3	1	3	1		4	1	lid+swing	1	stick	23		2	2	l	1	s	1																																								
+small-clawed otters	James	m	14	40	4	4	1	4	2		4	1	lid+swing	1	stick	14		2	2	l	1	s	1																																								
+small-clawed otters	James	m	14	41	5	5	1	5	2		4	1	lid+stick	1	swing	30		1	6	s	1	l	1	s	1	l	1	s	1	d	1																																
+small-clawed otters	James	m	14	42	6	6	1	6	2	2	4	1	stick+swing	1	lid	4		3	1	l	1																																										
+small-clawed otters	James	m	15	43	7	7	2	7	3	3	4	1	stick+swing	1	lid	5		3	2	s	1	l	1																																								
+small-clawed otters	James	m	15	44	8	8	2	8	3		4	1	lid+stick	1	swing	18		1	5	l	1	s	1	d	1	l	1	d	1																																		
+small-clawed otters	James	m	15	45	9	9	2	9	3		4	1	lid+swing	1	stick	10		2	1	s	1																																										
+small-clawed otters	James	m	16	46	10	10	2	10	4	4	4	1	stick+swing	1	lid	4		3	1	l	1																																										
+small-clawed otters	James	m	16	47	11	11	2	11	4		4	1	lid+swing	1	stick	8		2	1	s	1																																										
+small-clawed otters	James	m	16	48	12	12	2	12	4		4	1	lid+stick	1	swing	46		1	7	s	1	l	1	s	1	l	1	s	1	l	1	d	1																														
+small-clawed otters	Rudi	m	1	1	1	1	1	1	1		1	0	-	1	swing	18	-		2	s	1	d	1																																								
+small-clawed otters	Rudi	m	1	2	2	2	1	2	2		1	0	-	1	swing	6	-		2	s	1	d	1																																								
+small-clawed otters	Rudi	m	1	3	3	3	1	3	3		1	0	-	1	swing	5	stick		1	d	1																																										
+small-clawed otters	Rudi	m	2	4	4	4	1	4	4		1	0	-	1	swing	8	stick		2	s	1	d	1																																								
+small-clawed otters	Rudi	m	2	5	5	5	1	5			1	0	-	1	swing	6			2	s	1	d	1																																								
+small-clawed otters	Rudi	m	2	6	6	6	1	6			1	0	-	1	swing	10			1	d	1																																										
+small-clawed otters	Rudi	m	3	7	7	7	2	7			1	0	-	1	swing	7			2	s	1	d	1																																								
+small-clawed otters	Rudi	m	3	8	8	8	2	8			1	0	-	1	swing	8			2	s	1	d	1																																								
+small-clawed otters	Rudi	m	3	9	9	9	2	9			1	0	-	1	swing	3			1	d	1																																										
+small-clawed otters	Rudi	m	4	10	10	10	2	10			1	0	-	1	swing	6			1	d	1																																										
+small-clawed otters	Rudi	m	4	11	11	11	2	11			1	0	-	1	swing	5			1	d	1																																										
+small-clawed otters	Rudi	m	4	12	12	12	2	12			1	0	-	1	swing	4			1	d	1																																										
+small-clawed otters	Rudi	m	5	13	1	1	1		1		2	0	swing	1	lid	22			4	d	1	s	1	d	1	l	1																																				
+small-clawed otters	Rudi	m	5	14	2	2	1		2		2	0	swing	1	lid	8			2	d	1	l	1																																								
+small-clawed otters	Rudi	m	5	15	3	3	1		3		2	0	swing	1	lid	8			2	d	1	l	1																																								
+small-clawed otters	Rudi	m	6	16	4	4	1		4		2	0	swing	1	lid	8			2	s	1	l	1																																								
+small-clawed otters	Rudi	m	6	17	5	5	1				2	0	swing	1	lid	10			2	d	1	l	1																																								
+small-clawed otters	Rudi	m	6	18	6	6	1				2	0	swing	1	lid	6			2	d	1	l	1																																								
+small-clawed otters	Rudi	m	7	19	7	7	2				2	0	swing	1	lid	12			2	d	2	l	1																																								
+small-clawed otters	Rudi	m	7	20	8	8	2				2	0	swing	1	lid	14			5	s	1	d	1	s	1	d	1	l	1																																		
+small-clawed otters	Rudi	m	7	21	9	9	2				2	0	swing	1	lid	6			2	d	1	l	1																																								
+small-clawed otters	Rudi	m	8	22	10	10	2				2	0	swing	1	lid	6			2	d	1	l	1																																								
+small-clawed otters	Rudi	m	8	23	11	11	2				2	0	swing	1	lid	6			2	d	1	l	1																																								
+small-clawed otters	Rudi	m	8	24	12	12	2				2	0	swing	1	lid	5			2	d	1	l	1																																								
+small-clawed otters	Rudi	m	9	25	1	1	1		1	1	3	0	lid+swing	1	stick	368			18	d	1	l	2	d	1	l	2	d	1	l	1	d	1	s	1	l	2	d	1	l	2	d	1	l	2	s	1	l	1	d	1	l	1	s	1								
+small-clawed otters	Rudi	m	9	26	2	2	1		2	2	3	0	lid+swing	1	stick	92			6	d	1	l	2	s	1	d	1	l	1	s	1																																
+small-clawed otters	Rudi	m	9	27	3	3	1		3	3	3	0	lid+swing	1	stick	7			1	s	1																																										
+small-clawed otters	Rudi	m	10	28	4	4	1		4	4	3	0	lid+swing	1	stick	6			1	s	1																																										
+small-clawed otters	Rudi	m	10	29	5	5	1				3	0	lid+swing	1	stick	5			1	s	1																																										
+small-clawed otters	Rudi	m	10	30	6	6	1				3	0	lid+swing	1	stick	5			1	s	1																																										
+small-clawed otters	Rudi	m	11	31	7	7	2				3	0	lid+swing	1	stick	7			1	s	1																																										
+small-clawed otters	Rudi	m	11	32	8	8	2				3	0	lid+swing	1	stick	3			1	s	1																																										
+small-clawed otters	Rudi	m	11	33	9	9	2				3	0	lid+swing	1	stick	3			1	s	1																																										
+small-clawed otters	Rudi	m	12	34	10	10	2				3	0	lid+swing	1	stick	3			1	s	1																																										
+small-clawed otters	Rudi	m	12	35	11	11	2				3	0	lid+swing	1	stick	3			1	s	1																																										
+small-clawed otters	Rudi	m	12	36	12	12	2				3	0	lid+swing	1	stick	3			1	s	1																																										
+small-clawed otters	Rudi	m	13	37	1	1	1	1	1	1	4	1	lid+swing	1	stick	3		3	1	s	1																																										
+small-clawed otters	Rudi	m	13	38	2	2	1	2	1		4	1	lid+stick	1	swing	50		1	2	s	3	d	1																																								
+small-clawed otters	Rudi	m	13	39	3	3	1	3	1		4	1	stick+swing	1	lid	12		2	3	s	1	d	1	l	1																																						
+small-clawed otters	Rudi	m	14	40	4	4	1	4	2	2	4	1	lid+swing	1	stick	4		3	1	s	1																																										
+small-clawed otters	Rudi	m	14	41	5	5	1	5	2		4	1	lid+stick	1	swing	6		1	2	s	1	d	1																																								
+small-clawed otters	Rudi	m	14	42	6	6	1	6	2		4	1	stick+swing	1	lid	32		2	10	s	1	d	1	s	1	d	2	l	1	s	1	d	1	s	1	d	1	l	1																								
+small-clawed otters	Rudi	m	15	43	7	7	2	7	3		4	1	stick+swing	1	lid	6		2	3	s	1	d	1	l	1																																						
+small-clawed otters	Rudi	m	15	44	8	8	2	8	3	3	4	1	lid+swing	1	stick	19		3	5	d	1	l	1	s	1	d	1	s	1																																		
+small-clawed otters	Rudi	m	15	45	9	9	2	9	3		4	1	lid+stick	1	swing	6		1	2	s	1	d	1																																								
+small-clawed otters	Rudi	m	16	46	10	10	2	10	4		4	1	stick+swing	1	lid	10		2	3	s	1	d	1	l	1																																						
+small-clawed otters	Rudi	m	16	47	11	11	2	11	4	4	4	1	lid+swing	1	stick	2		3	1	s	1																																										
+small-clawed otters	Rudi	m	16	48	12	12	2	12	4		4	1	lid+stick	1	swing	8		1	2	s	1	d	1																																								
+small-clawed otters	Twoface	m	1	1	1	1	1		1		1	0	-	1	swing	34	-		1	d	1																																										
+small-clawed otters	Twoface	m	1	2	2	2	1		2		1	0	-	1	swing	7	-		1	d	1																																										
+small-clawed otters	Twoface	m	1	3	3	3	1		3		1	0	-	1	swing	8	stick		1	d	1																																										
+small-clawed otters	Twoface	m	2	4	4	4	1		4		1	0	-	1	swing	7	-		2	s	1	d	1																																								
+small-clawed otters	Twoface	m	2	5	5	5	1		1		1	0	-	1	lid	6	swing		2	s	1	l	1																																								
+small-clawed otters	Twoface	m	2	6	6	6	1		2		1	0	-	1	lid	6	-		1	l	1																																										
+small-clawed otters	Twoface	m	3	7	7						1	0	-	1	swing	8			2	s	1	d	1																																								
+small-clawed otters	Twoface	m	3	8	8				3		1	0	-	1	lid	4			2	s	1	l	1																																								
+small-clawed otters	Twoface	m	3	9	9				4		1	0	-	1	lid	4			1	l	1																																										
+small-clawed otters	Twoface	m	4	10	10						1	0	-	1	swing	12			2	s	1	d	1																																								
+small-clawed otters	Twoface	m	4	11	11						1	0	-	1	lid	4			1	l	1																																										
+small-clawed otters	Twoface	m	4	12	12						1	0	-	1	lid	3			1	l	1																																										
+small-clawed otters	Twoface	m	5	13	13						1	0	-	1	swing	9	lid		1	d	1																																										
+small-clawed otters	Twoface	m	5	14	14	7	2				1	0	-	1	lid	5			1	l	1																																										
+small-clawed otters	Twoface	m	5	15	15	8	2				1	0	-	1	lid	3	swing		1	l	1																																										
+small-clawed otters	Twoface	m	6	16	16	9	2				1	0	-	1	lid	3			1	l	1																																										
+small-clawed otters	Twoface	m	6	17	17	10	2				1	0	-	1	lid	3			1	l	1																																										
+small-clawed otters	Twoface	m	6	18	18	11	2				1	0	-	1	lid	3			1	l	1																																										
+small-clawed otters	Twoface	m	7	19	19	12	2				1	0	-	1	lid	5			1	l	1																																										
+small-clawed otters	Twoface	m	8	20	1	1	1				2	0	lid	1	swing	13			3	s	1	l	1	d	1																																						
+small-clawed otters	Twoface	m	8	21	2	2	1				2	0	lid	1	swing	6			2	l	1	d	1																																								
+small-clawed otters	Twoface	m	8	22	3	3	1				2	0	lid	1	swing	7			2	l	1	d	1																																								
+small-clawed otters	Twoface	m	9	23	4	4	1				2	0	lid	1	swing	9			2	l	1	d	1																																								
+small-clawed otters	Twoface	m	9	24	5	5	1				2	0	lid	1	swing	9			2	l	1	d	1																																								
+small-clawed otters	Twoface	m	9	25	6	6	1				2	0	lid	1	swing	5			1	d	1																																										
+small-clawed otters	Twoface	m	10	26	7	7	2				2	0	lid	1	swing	4			1	d	1																																										
+small-clawed otters	Twoface	m	10	27	8	8	2				2	0	lid	1	swing	4			1	d	1																																										
+small-clawed otters	Twoface	m	10	28	9	9	2				2	0	lid	1	swing	4			1	d	1																																										
+small-clawed otters	Twoface	m	11	29	10	10	2				2	0	lid	1	swing	5			1	d	1																																										
+small-clawed otters	Twoface	m	11	30	11	11	2				2	0	lid	1	swing	3			1	d	1																																										
+small-clawed otters	Twoface	m	11	31	12	12	2				2	0	lid	1	swing	3			1	d	1																																										
