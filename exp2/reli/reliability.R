@@ -15,9 +15,9 @@ cohen.kappa(cbind(rel_data$Success,rel_data$success_reli))
 
 # number turns
 
-cor.test(rel_data$Number_of_turns, rel_data$Number_of_turns_reli)
+cor.test(rel_data$Number_of_turns, rel_data$Number_of_turns_reli, method = "spearman", use ="complete.obs")
 
 
 # number latency
 
-cor.test(rel_data$Latency, rel_data$Latency_reli)
+cor.test(rel_data$Latency, rel_data$Latency_reli, method = "spearman", use ="complete.obs")
