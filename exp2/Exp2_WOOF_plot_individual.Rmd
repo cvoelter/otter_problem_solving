@@ -18,7 +18,23 @@ str(all.data)
 
 agg.data<-all.data%>%
   group_by(Subject, Phase, Condition, con2, food_level)%>%
-  summarise(latency=mean(Latency), success=mean(Success), turns=mean(Number_of_turns))
+  summarise(latency=mean(Latency), success=mean(Success))
+
+turn.data<-all.data%>%
+  filter(Number_of_turns>0)
+
+agg.data.turn<-all.data%>%
+  filter(Number_of_turns>0)%>%
+  group_by(Subject, Phase, Condition, con2, food_level)%>%
+  summarise(turns=mean(Number_of_turns), min.turns=min(Number_of_turns), max.turns=max(Number_of_turns))
+
+agg.data.turns2<-agg.data.turn%>%
+  group_by(Phase, Condition, con2, food_level)%>%
+  summarise(turns=mean(turns))
+
+agg.data2<-agg.data%>%
+  group_by(con2, food_level)%>%
+  summarise(success=mean(success))
 ```
 ```{r}
 success.plot<- ggplot(data=agg.data, aes(x=as.factor(Phase), y=success))+
@@ -36,7 +52,8 @@ annotate(geom = "text", x = 2, y = -0.4, label = "Training", size = 3)+
   annotate(geom = "text", x = 4, y = -0.4, label = "visible", size = 3)+
   annotate(geom = "text", x = 5, y = -0.4, label = "visible", size = 3)+
   annotate(geom = "text", x = 6, y = -0.4, label = "occl.", size = 3)+
-  annotate(geom = "text", x = 7, y = -0.4, label = "visible", size = 3)
+  annotate(geom = "text", x = 7, y = -0.4, label = "visible", size = 3)+
+  theme(panel.spacing = unit(0.3, "lines"))
 
 
 success.plot
@@ -67,9 +84,11 @@ ggsave(latency.plot, filename = "graphics/Exp2_WOOF_plot_individual_latencies.pn
 
 ```
 ```{r}
-turns.plot<- ggplot(data=agg.data, aes(x=as.factor(Phase), y=turns))+
+turns.plot<- ggplot(data=agg.data.turn, aes(x=as.factor(Phase), y=turns))+
   geom_line(aes(x=Phase, y=turns))+
   geom_point()+
+ # geom_errorbar(aes( x=Phase, ymin = min.turns, ymax = max.turns ))+
+  geom_point(data=turn.data, aes( x=Phase, y=Number_of_turns ), pch=1)+
   labs(
     y = "Number of turns",
     x = "")+
@@ -77,12 +96,13 @@ turns.plot<- ggplot(data=agg.data, aes(x=as.factor(Phase), y=turns))+
   facet_wrap(~Subject)+
   theme_few()+
   scale_x_discrete(breaks=c("1","2","3","4","5","6", "7"), labels=c("low", "high", "high", "high", "extra", "extra", "extra"))+
-  coord_cartesian(ylim = c(0, 15),  clip = "off")+
-annotate(geom = "text", x = 2, y = -6, label = "Training", size = 3)+
-  annotate(geom = "text", x = 4, y = -6, label = "visible", size = 3)+
-  annotate(geom = "text", x = 5, y = -6, label = "visible", size = 3)+
-  annotate(geom = "text", x = 6, y = -6, label = "occl.", size = 3)+
-  annotate(geom = "text", x = 7, y = -6, label = "visible", size = 3)
+  coord_cartesian(ylim = c(0, 26),  clip = "off")+
+annotate(geom = "text", x = 2, y = -10, label = "Training", size = 3)+
+  annotate(geom = "text", x = 4, y = -10, label = "visible", size = 3)+
+  annotate(geom = "text", x = 5, y = -10, label = "visible", size = 3)+
+  annotate(geom = "text", x = 6, y = -10, label = "occl.", size = 3)+
+  annotate(geom = "text", x = 7, y = -10, label = "visible", size = 3)+
+  theme(panel.spacing = unit(0.3, "lines"))
 
 
 turns.plot
