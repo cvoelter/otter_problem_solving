@@ -63,6 +63,8 @@ annotate(geom = "text", x = 2, y = -44, label = "Training", size = 3)+
 
 latency.plot
 
+ggsave(latency.plot, filename = "graphics/Exp2_WOOF_plot_individual_latencies.png", height = 4, width = 7, scale=0.8)
+
 ```
 ```{r}
 turns.plot<- ggplot(data=agg.data, aes(x=as.factor(Phase), y=turns))+
@@ -90,9 +92,9 @@ turns.plot
 ```{r}
 library(cowplot)
 
-pg<-plot_grid(success.plot, latency.plot, turns.plot, ncol=1, labels = c("A", "B", "C"))
+pg<-plot_grid(success.plot, turns.plot, ncol=1, labels = c("A", "B"))
 pg
 
-ggsave(pg, filename = "graphics/Exp2_WOOF_plot_individual.png", height = 11, width = 7, scale=0.8)
+ggsave(pg, filename = "graphics/Exp2_WOOF_plot_individual.png", height = 7, width = 7, scale=0.8)
 ```
 
