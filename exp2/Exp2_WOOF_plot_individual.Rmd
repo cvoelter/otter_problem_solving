@@ -18,7 +18,7 @@ str(all.data)
 
 agg.data<-all.data%>%
   group_by(Subject, Phase, Condition, con2, food_level)%>%
-  summarise(latency=mean(Latency), success=mean(Success))
+  summarise(latency=mean(Latency), success=mean(Success), se.latency=sd(Latency)/sqrt(length(Latency)), count.length=length(Latency),  se.success=sd(Success)/sqrt(length(Success)), count.success=length(Success))
 
 turn.data<-all.data%>%
   filter(Number_of_turns>0)
@@ -26,7 +26,7 @@ turn.data<-all.data%>%
 agg.data.turn<-all.data%>%
   filter(Number_of_turns>0)%>%
   group_by(Subject, Phase, Condition, con2, food_level)%>%
-  summarise(turns=mean(Number_of_turns), min.turns=min(Number_of_turns), max.turns=max(Number_of_turns))
+  summarise(turns=mean(Number_of_turns), min.turns=min(Number_of_turns), max.turns=max(Number_of_turns), se.turns=sd(Number_of_turns)/sqrt(length(Number_of_turns)), count=length(Number_of_turns))
 
 agg.data.turns2<-agg.data.turn%>%
   group_by(Phase, Condition, con2, food_level)%>%
@@ -40,6 +40,7 @@ agg.data2<-agg.data%>%
 success.plot<- ggplot(data=agg.data, aes(x=as.factor(Phase), y=success))+
   geom_line(aes(x=Phase, y=success))+
   geom_point()+
+  geom_errorbar(aes(ymin=(success-se.success), ymax=(success+se.success)), width=0.1)+
   labs(
     y = "Success",
     x = "")+
@@ -63,6 +64,7 @@ success.plot
 latency.plot<- ggplot(data=agg.data, aes(x=as.factor(Phase), y=latency))+
   geom_line(aes(x=Phase, y=latency))+
   geom_point()+
+  geom_errorbar(aes(ymin=(latency-se.latency), ymax=(latency+se.latency)), width=0.1)+
   labs(
     y = "Latency (in sec)",
     x = "")+
@@ -87,8 +89,8 @@ ggsave(latency.plot, filename = "graphics/Exp2_WOOF_plot_individual_latencies.pn
 turns.plot<- ggplot(data=agg.data.turn, aes(x=as.factor(Phase), y=turns))+
   geom_line(aes(x=Phase, y=turns))+
   geom_point()+
- # geom_errorbar(aes( x=Phase, ymin = min.turns, ymax = max.turns ))+
-  geom_point(data=turn.data, aes( x=Phase, y=Number_of_turns ), pch=1)+
+  geom_point(data=turn.data, aes( x=Phase, y=Number_of_turns ), pch=1, alpha=0.3)+
+  geom_errorbar(aes(ymin=(turns-se.turns), ymax=(turns+se.turns)), width=0.1)+
   labs(
     y = "Number of turns",
     x = "")+
