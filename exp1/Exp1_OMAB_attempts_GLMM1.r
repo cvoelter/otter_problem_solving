@@ -10,6 +10,7 @@ all.data <- read.table(file = "exp1/data/160628 Otter multiaccess box_data 2016a
 str(all.data)
 
 xdata <- subset(all.data, Step != 4)
+xdata <- subset(xdata, Success != 0)
 summary(xdata)
 
 hist(xdata$transitions)
