@@ -2,6 +2,7 @@
 all.data <- read.table(file = "exp1/data/160628 Otter multiaccess box_data 2016attempts.txt", header = T, sep = "\t")
 
 zdata <- subset(all.data, Method != "-")
+zdata <- subset(zdata, Success != 0)
 zdata$Method <- factor(zdata$Method)
 
 png(filename = "exp1/graphics/OMAB_latency_individual data.png", width = 800, height = 600)

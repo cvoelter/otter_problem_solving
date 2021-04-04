@@ -1,5 +1,6 @@
 library(lme4)
 library(car)
+library(tidyverse)
 source("functions/diagnostic_fcns.r")
 source("functions/helpers.r")
 source("functions/boot_glmm.r")
@@ -10,7 +11,11 @@ all.data <- read.table(file = "exp1/data/160628 Otter multiaccess box_data 2016a
 str(all.data)
 
 xdata <- subset(all.data, Step != 4)
+xdata <- subset(xdata, Success != 0)
 summary(xdata)
+
+latencies_by_phase<-xdata%>%group_by(Step, Subject)%>%summarise(mean_lat=mean(Latency), min=min(Latency), max=max(Latency))
+latencies<-latencies_by_phase%>%group_by(Step)%>%summarise(mean=mean(mean_lat), min=min(mean_lat), max=max(mean_lat))
 
 hist(xdata$Latency)
 hist(xdata$Step)
